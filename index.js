@@ -5,8 +5,8 @@ window.onload = function() {
   var firebaseConfig = {
     apiKey: "AIzaSyAfNKz3MovcCVNZTlQVmIqZLd6b1iQgJr8",
     authDomain: "chatbox-098.firebaseapp.com",
+    databaseURL: "https://chatbox-098-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "chatbox-098",
-    databaseURL: "https://chatbox-098-default-rtdb.asia-southeast1.firebasedatabase.app", // Updated URL
     storageBucket: "chatbox-098.appspot.com",
     messagingSenderId: "335839756088",
     appId: "1:335839756088:web:12b649898638c5bf34cbcd"
